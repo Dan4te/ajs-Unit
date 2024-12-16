@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/yf48125xdrrx4v2h?svg=true)](https://ci.appveyor.com/project/Dan4te/ajs-unit)
+
 ## Чистые функции
 
 ### Легенда
